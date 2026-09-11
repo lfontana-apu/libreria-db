@@ -11,4 +11,4 @@ Il database contiene le tabelle:
 
 ## Google Sheets
 
-[Apri il database della libreria](https://docs.google.com/spreadsheets/d/1rnDeAr87QemXilvCy_0dDcP0emkYWJoeylu2bnPhDmI/edit?usp=sharing)
+[Apri il database della libreria](https://docs.google.com/spreadsheets/d/1GHoAYk0rVIgDLibvXzu3q6MHDgoI-YyZwt-cwyktKjA/edit?usp=sharing)
